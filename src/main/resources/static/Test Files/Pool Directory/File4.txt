@@ -1,0 +1,4 @@
+applications The analyzing brown fox jumps over the lazy dog
+This is a sample text file for testing
+We are  word similarity between files
+Spring Boot makes it easy to create quick
