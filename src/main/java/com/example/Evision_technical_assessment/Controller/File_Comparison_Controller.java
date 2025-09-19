@@ -1,9 +1,8 @@
 package com.example.Evision_technical_assessment.Controller;
 
 import com.example.Evision_technical_assessment.Models.SimilarityResult;
-import com.example.Evision_technical_assessment.Services.Cosine_Similarity_Service;
-import com.example.Evision_technical_assessment.Services.Normal_Similarity_Service;
-import org.springframework.beans.factory.annotation.Value;
+import com.example.Evision_technical_assessment.Services.Similarity_Processing.Cosine_Similarity_Service;
+import com.example.Evision_technical_assessment.Services.Similarity_Processing.Normal_Similarity_Service;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
